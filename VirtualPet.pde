@@ -1,4 +1,7 @@
-  void draw(){
+void setup(){
+size(400,400)
+}
+void draw(){
   noStroke();
   //color brown
   fill(194, 151, 113);
